@@ -41,46 +41,23 @@ section {
 }
 
 #chicken {
-	border: 1px solid black;
 	text-align: center;
-	width: 30%;
-	margin-left: 70%;
-	font-family: Georgia,sans-serif;
+	font-size: 1.8em;
 	font-weight: bold;
-	font-size: 125%;
-	margin-bottom: 0;
-	margin-top: 0;
-	padding: 5px;
-	background-color: #FFFF00;
+	margin-top: 5px;
 }
 
 #beef {
-	border: 1px solid black;
 	text-align: center;
-	width: 30%;
-	margin-left: 70%;
-	font-family: Georgia,sans-serif;
+	font-size: 1.8em;
 	font-weight: bold;
-	font-size: 125%;
-	margin-bottom: 0;
-	margin-top: 0;
-	padding: 5px;
-	background-color: #FF1439;
+	margin-top: 5px;
 }
-
 #sushi {
-	border: 1px solid black;
 	text-align: center;
-	width: 30%;
-	margin-left: 70%;
-	font-family: Georgia,sans-serif;
+	font-size: 1.8em;
 	font-weight: bold;
-	font-size: 125%;
-	margin-bottom: 0;
-	margin-top: 0;
-	background-color: #6495ED;
-	color: white;
-	padding: 5px;
+	margin-top: 5px;
 }
 
 #chicken-div {
